@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <md> 
 Titre 1 
 </md>
@@ -9,4 +10,9 @@ Sous-titre
 
 <md>
 Sous-titre 2
+</md>
+
+<md>
+### hotfix
+
 </md>
